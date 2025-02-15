@@ -3,6 +3,6 @@
 
 
 <p align="center">
-    <img src="pobeda.webp" alt="void">
+    <img src="www.webp" alt="void">
 </p>
 <h1 align="center"></h1>
